@@ -3,11 +3,11 @@
 /*
 Plugin Name: Listhine Signup Forms
 Plugin URI: https://listshine.com
-Description: A brief description of the Plugin.
+Description: A responsive and intuitive plugin for using your ListShine signup forms on your wordpress website!
 Version: 1.0
 Author: mariop
-Author URI: http://URI_Of_The_Plugin_Author
-License: A "Slug" license name e.g. GPL2
+Author URI: https://github.com/MPorcic
+License: GPLv2
 */
 include "functions.php";
 
